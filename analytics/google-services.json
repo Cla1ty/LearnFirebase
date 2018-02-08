@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651838539646",
+    "firebase_url": "https://learnfirebase-950eb.firebaseio.com",
+    "project_id": "learnfirebase-950eb",
+    "storage_bucket": "learnfirebase-950eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651838539646:android:88c69836a6d6fd3f",
+        "android_client_info": {
+          "package_name": "com.kristal.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651838539646-caqjlsh4od3e0bi7pk9n4dp5rsqt0g5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kristal.analytics",
+            "certificate_hash": "77cfbea567894af0c6bda3b36bb71a0a55186165"
+          }
+        },
+        {
+          "client_id": "651838539646-pk7ig206j7genrbj5li6uoo4deckcmpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqlSwdDD46CCxFefeCjwRR-ckw5rzIFDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651838539646-pk7ig206j7genrbj5li6uoo4deckcmpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
